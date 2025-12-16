@@ -8,7 +8,7 @@
 
   color-scheme: light dark;
   color: #171717;
-  background: linear-gradient(146deg, #f9fafb 0%, #d2d6db 100%);
+  background: linear-gradient(146deg, #f9fafb 0%, #d2d6db 100%) no-repeat;
 }
 
 #root {
